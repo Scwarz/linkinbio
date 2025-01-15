@@ -1,3 +1,5 @@
-# static-html-template
-<header><h1>Static web-site using linked tree deployed on Render</h1></header>
-Use this template to create static HTML websites and deploy them on Render.
+
+<header>
+  Static web-site with social media links and links about Earth Wonders that redirect us on Wikipedia articles. The web-site has been deployed on Render.
+  The project is written using HTML markup language and elements styled with CSS.
+</header>
